@@ -1,0 +1,26 @@
+[Libraries]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.apk
+*.aab
+*.exe
+
+# Visual Studio / Rider / JetBrains
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.userprefs
